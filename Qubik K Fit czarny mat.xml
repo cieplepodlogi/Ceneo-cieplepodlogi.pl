@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<offers
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
+	<o id="qubik-k-fit-czarny-mat" url="https://cieplepodlogi.pl/2,qubik-k-fit-czarny,108.html" price="68.00" avail="7" weight="0.8" basket="1">
+		<cat>
+			<![CDATA[Klamki i gałki]]>
+		</cat>
+		<name>
+			<![CDATA[Metal-Bud Klamka kwadratowa Qubik K Fit kolor czarny mat]]>
+		</name>
+		<imgs>
+			<main url="https://cieplepodlogi.pl/grafika/grafika_produktu/108/qubik-k-fit-czarny-213.jpg"/>
+			<!-- Dodaj więcej zdjęć dodatkowych w podobny sposób -->
+		</imgs>
+		<desc>
+			<![CDATA[Kwadratowa klamka z kolekcji QUBIK K, najpopularniejszy wzór na rynku, nowość dopełnienie modelu o szyld typu FIT. Szyld FIT jest grubości 6mm i stanowi doskonałe dopełnienie produktu. Klamki z kwadratowym szyldem typu K posiadają estetyczną, jednolitą konstrukcję szyldu podklamkowego, która nie posiada dodatkowych łączeń co wpływa na poziom estetyki całego produktu. Produkt dostępny jest w szerokiej gamie modnych kolorów.]]>
+		</desc>
+		<attrs>
+			<a name="Marka">
+				<![CDATA[Metal-Bud]]>
+			</a>
+			<a name="EAN">
+				<![CDATA[5907354083367]]>
+			</a>
+			<a name="Atrybuty">
+				<![CDATA[Klamka drzwiowa, wytrzymała, modna, kwadratowa, czarna]]>
+			</a>
+			<!-- Dodaj więcej atrybutów w podobny sposób -->
+		</attrs>
+	</o>
+</offers>
